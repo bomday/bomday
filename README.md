@@ -5,7 +5,7 @@
 📚 I'm an Information Systems student at CIn - UFPE <br/>
 💻 I’m currently working as a QA Engineer at NTT DATA <br/>
 🚀 I'm dedicated to learning Test Automation <br/>
-🧐 Interested in Artificial Intelligence and Information Security <br/>
+🧐 Interested in DevOps and Information Security <br/>
 💜 Pronouns: she/her <br/>
 ✊ Passionate in using technology and innovation to social impact <br/>
 🧶 I love handmade activities <br/><br/>
