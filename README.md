@@ -2,10 +2,10 @@
 
 ### About me:
 
-📚 I'm an Information Systems student at CIn - UFPE <br/>
-💻 I’m currently working as a QA Engineer at NTT DATA <br/>
-🚀 I'm dedicated to learning Test Automation <br/>
-🧐 Interested in DevOps and Information Security <br/>
+📚 I'm an Information Systems student at [CIn - UFPE](https://portal.cin.ufpe.br/) <br/>
+💻 I’m currently working as a Software Engineer at [CESAR](https://www.cesar.org.br/web/english) <br/>
+🚀 I'm dedicated to learning Automation and Cybersecurity <br/>
+🧐 Interested in DevOps and Cybersecurity <br/>
 💜 Pronouns: she/her <br/>
 ✊ Passionate in using technology and innovation to social impact <br/>
 🧶 I love handmade activities <br/><br/>
