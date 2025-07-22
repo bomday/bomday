@@ -11,8 +11,8 @@
 🧶 I love handmade activities <br/><br/>
 
 <div style="display: block">
-  <img style="height: 12em" src="https://github-readme-stats.vercel.app/api?username=bomday&show_icons=true&theme=dark&count_private=true"/>
-  <img style="height: 12em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomday&layout=compact&langs_count=7&theme=dark"/>
+  <img style="height: 12em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko"/>
+  <img style="height: 12em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomday&layout=compact&langs_count=7&theme=merko"/>
 </div><br/>
 
 ### Let's connect:
